@@ -17,13 +17,13 @@ export default function Home() {
         <AnimatedText className="text-center max-w-xl" delay={0.7}>
           <p className="text-gray-200 text-lg mb-4">Nothing to show for now</p>
           <p className="text-gray-400 text-sm">
-            This space is currently under development. We're crafting an
+            This space is currently under development. We&apos;re crafting an
             experience that aims to be both useful and elegant. Check back soon
             to see what emerges.
           </p>
           <p className="text-gray-400 text-sm mt-3 italic">
-            "Rome wasn't built in a day, but our website definitely could have
-            been..." - Ancient Developer Proverb
+            &ldquo;Rome wasn&apos;t built in a day, but our website definitely
+            could have been...&rdquo; - Ancient Developer Proverb
           </p>
         </AnimatedText>
 
